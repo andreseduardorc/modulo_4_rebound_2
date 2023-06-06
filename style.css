@@ -1,0 +1,11 @@
+.target_normal {
+    background-image: url('./fondo.jpg');
+  
+  }
+  
+.target_VIP{
+    background-image: url('./fondo.jpg');
+    display: none;
+}
+
+
